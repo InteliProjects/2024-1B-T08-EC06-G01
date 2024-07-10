@@ -1,0 +1,9 @@
+{
+    "label": "Teleoperação do Robô",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "Nesta seção, conduzimos a documentação do processo de deselvolvimento do código de teleoperação do robô, desde a CLI, Publisher e a classe de movimentação."
+
+    }
+}

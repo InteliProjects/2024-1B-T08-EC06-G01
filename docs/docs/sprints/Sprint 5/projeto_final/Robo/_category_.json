@@ -1,0 +1,9 @@
+{
+    "label": "Operação do robô",
+    "position": 5,
+    "link": {
+        "type": "generated-index",
+        "description": "Nesta seção, estão documentados as seções relacionadas ao funcionamento do robô"
+
+    }
+}

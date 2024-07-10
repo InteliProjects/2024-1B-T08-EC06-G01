@@ -1,0 +1,5 @@
+# Ignore the postgres_data directory (keeps the data from the postgres container)
+postgres_data/
+
+# Ignore the bucket_data directory (keeps the data from the minio container)
+bucket_data/

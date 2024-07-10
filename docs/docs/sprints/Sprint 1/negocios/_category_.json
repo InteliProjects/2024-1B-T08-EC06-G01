@@ -1,0 +1,9 @@
+{
+    "label": "Artefatos Negócios",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "Nesta seção estão todos os artefatos referentes a negócios. Existem seções de matriz de risco."
+
+    }
+}

@@ -1,0 +1,10 @@
+python-dotenv==1.0.1
+fastapi[all]==0.111.0
+python-jose==3.3.0
+passlib[bcrypt]==1.7.4
+ormar==0.20.0
+asyncpg==0.29.0
+gunicorn==22.0.0
+opencv-python
+pytz==2021.3
+matplotlib

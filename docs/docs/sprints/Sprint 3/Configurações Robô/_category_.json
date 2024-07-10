@@ -1,0 +1,9 @@
+{
+    "label": "Configurações do robô",
+    "position": 4,
+    "link": {
+        "type": "generated-index",
+        "description": "Nesta seção, estão documentados os artefatos de UX do projeto."
+
+    }
+}

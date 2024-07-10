@@ -1,0 +1,8 @@
+{
+    "label": "Sistema de emergência",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "Essa seção contém informações sobre o sistema de emergência do robô."
+    }
+}

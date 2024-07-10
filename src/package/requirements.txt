@@ -1,0 +1,7 @@
+inquirerpy==0.3.4
+typer==0.9.0
+fastapi
+uvicorn
+websockets
+smbus2==0.4.3
+RPi.bme280==0.2.4

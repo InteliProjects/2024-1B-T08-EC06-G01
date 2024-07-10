@@ -1,0 +1,8 @@
+{
+    "label": "Sprints",
+    "position": 2,
+    "link": {
+        "type": "generated-index",
+        "description": "Aqui você pode visualizar todas as sprints do projeto"
+    }
+}
